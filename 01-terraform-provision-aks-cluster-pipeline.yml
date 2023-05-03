@@ -8,7 +8,7 @@ variables:
   - name: DEV_ENVIRONMENT
     value: dev  
   - name: QA_ENVVIRONMENT
-  value: qa
+    value: qa
 
 
 
